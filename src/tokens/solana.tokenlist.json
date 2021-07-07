@@ -74,6 +74,24 @@
         "assetContract": "https://etherscan.io/address/0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "coingeckoId": "dai"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "26W4xxHbWJfrswaMNh14ag2s4PZTQuu2ypHGj6YEVXkT",
+      "symbol": "wDCASH",
+      "name": "Diabolo (Wormhole)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+      "tags": [
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "address": "0xcF8f32e032f432B02393636B2092a6BEf975FBF9",
+        "bridgeContract": "https://etherscan.io/address/0xf92cD566Ea4864356C5491c177A430C222d7e678",
+        "assetContract": "https://etherscan.io/address/0xcF8f32e032f432B02393636B2092a6BEf975FBF9",
+        "coingeckoId": "dcash"
+      }
     }
   ],
   "version": {
